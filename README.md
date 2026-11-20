@@ -1,0 +1,1 @@
+This is a game between the player and the computer it generate a random numbers with help of a function and then the player chose the opposete value and after that it compare the two values with a spiecific rules that add point to the winer, I use Event handeler for the buttons and change the style of the page depend on the logic at the time 
